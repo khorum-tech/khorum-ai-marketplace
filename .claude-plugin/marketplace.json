@@ -49,6 +49,29 @@
         "source": "github",
         "repo": "khorum-oss/foreman-vision-pub"
       }
+    },
+    {
+      "name": "daidal-diagram",
+      "description": "Draw architecture and system diagrams inline in the chat as Daidal diagrams, from a config Claude writes or one you paste.",
+      "category": "diagramming",
+      "tags": [
+        "diagrams",
+        "architecture",
+        "c4",
+        "visualization",
+        "daidal"
+      ],
+      "homepage": "https://github.com/khorum-tech/daidal",
+      "repository": "https://github.com/khorum-tech/daidal",
+      "license": "FSL-1.1-ALv2",
+      "source": {
+        "source": "github",
+        "repo": "khorum-tech/daidal"
+      },
+      "strict": false,
+      "skills": [
+        "./skills/daidal-diagram"
+      ]
     }
   ]
 }
