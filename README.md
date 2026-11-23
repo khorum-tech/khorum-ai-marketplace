@@ -22,6 +22,7 @@ Then install any plugin by name:
 |---|---|---|
 | [Media Production](plugins/media-production) | `argo-guide` | Product demo videos from Playwright scripts, with AI voiceover and overlays. |
 | [Observability](plugins/observability) | `foreman-vision` | Live pixel-art office view of Claude Code sessions and subagents. |
+| [Diagramming](plugins/diagramming) | `daidal-diagram` | Architecture and system diagrams drawn inline in the chat, as Daidal diagrams. |
 | [Developer Tools](plugins/developer-tools) | _none yet_ | Code review, testing, scaffolding, release tooling. |
 
 ## Layout
